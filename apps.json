@@ -1,0 +1,12 @@
+[
+  {
+    "path": "./demo-apps/app1-service",
+    "port": 8081,
+    "command": "mvn spring-boot:run"
+  },
+  {
+    "path": "./demo-apps/app2-service",
+    "port": 8082,
+    "command": "mvn spring-boot:run"
+  }
+]

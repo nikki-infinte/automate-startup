@@ -1,0 +1,4 @@
+logs/
+.dev-state.json
+**/target/
+**/node_modules/

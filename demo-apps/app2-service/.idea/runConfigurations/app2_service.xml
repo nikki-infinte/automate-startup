@@ -1,0 +1,12 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app2-service" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="C:/Users/Wissen/AppData/Local/Programs/Eclipse Adoptium/jdk-21.0.13.9-hotspot" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <option name="MAIN_CLASS_NAME" value="com.demo.app2.App2Application" />
+    <module name="app2-service" />
+    <option name="PROGRAM_ARGUMENTS" value="--server.port=8082" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
